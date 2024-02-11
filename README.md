@@ -20,8 +20,8 @@
 
 ####  Here are the details of the project: Deploy static website on AWS
 
-Student Name: Sagar Urade
-Email: sagarurade50@gmail.com
+Student Name: Sagar Urade<br>
+Email: sagarurade50@gmail.com<br>
 Website endpoint url: http://sagarprject.click/
 
 Screenshots of the project process is included in the containing folder
