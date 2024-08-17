@@ -26,4 +26,4 @@ Website endpoint url: http://sagarprject.click/
 
 Screenshots of the project process is included in the containing folder
 
-- My portfolio website is my 1st project using aws service.
+- My portfolio website is my 1st project using aws service it is easy .
